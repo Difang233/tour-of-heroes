@@ -17,3 +17,8 @@ h2 {
     color: white;
     background-color: #42545C;
   }
+/* 在messages.component.css中进行修改 */
+  :host{
+    display: block;
+    background-color: red;
+  }
