@@ -45,3 +45,7 @@ label {
     margin-top: 0;
     padding-left: 0;
   }
+
+  :host-context(.redColor) h2{
+    color: red;
+  }

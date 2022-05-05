@@ -1,6 +1,6 @@
 /* DashboardComponent's private CSS styles */
 
-:host ::ng-deep h2{
+h2{
     text-align: center;
   }
   
